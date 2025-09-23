@@ -4,7 +4,7 @@
 🌐 Acesse o site
 👉 Acesse aqui: https://github.com/wilsonobj/amigo-Secreto-Alura
 
-# 🚀 Como Usar
+## 🚀 Como Usar
 
 - Adicione os nomes dos participantes
 - Atenção: O Campo não pode ser vazio!
@@ -23,11 +23,3 @@
 > inserida.
 
 
-
-
-
-## 🛠️ Tecnlogias Utilizadas
-
-- HTMLL
-- CSS
-- JavaScript
